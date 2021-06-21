@@ -6,7 +6,7 @@
 
   <groupId>com.coveros.demo</groupId>
   <artifactId>mavenJarBuild</artifactId>
-  <version>1.1</version>
+  <version>1</version>
   <packaging>jar</packaging>
 
   <name>Hello World</name>
